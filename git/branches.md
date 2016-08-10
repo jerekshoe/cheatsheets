@@ -1,9 +1,9 @@
 # Branches
-### Create
+## Create
 ```sh
 $ git checkout -b <branchName>
 ```
-### Delete
+## Delete
 #### local
 ```sh
 $ git branch -D <branchName>
@@ -12,11 +12,11 @@ $ git branch -D <branchName>
 ```sh
 $ git push origin --delete <branchName>
 ```
-### Switch
+## Switch
 ```sh
 $ git checkout <branchName>
 ```
-### View
+## View
 #### local branches
 ```sh
 $ git branch
