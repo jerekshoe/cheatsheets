@@ -75,11 +75,11 @@
 ```html
 <nav></nav>
 ```
-## Ordered List (Consists of List Items (li)
+## Ordered List - consists of List Items (li)
 ```html
 <ol></ol>
 ```
-## Option (Used in select (see below))
+## Option - used in select
 ```html
 <option></option>
 ```
@@ -141,5 +141,5 @@
 ```
 ## Unordered List
 ```html
-<ul>
+<ul></ul>
 ```
