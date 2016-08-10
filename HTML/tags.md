@@ -75,11 +75,11 @@
 ```html
 <nav></nav>
 ```
-## Ordered List (Consists of List Items (<li>)
+## Ordered List (Consists of List Items (li)
 ```html
 <ol></ol>
 ```
-## Option (Used in <select></select> (see below))
+## Option (Used in select (see below))
 ```html
 <option></option>
 ```
@@ -115,7 +115,7 @@
 ```html
 <tbody></tbody>
 ```
-## Table Cell - part of Table Row (<tr>)
+## Table Cell - part of Table Row (tr)
 ```html
 <td></td>
 ```
@@ -123,7 +123,7 @@
 ```html
 <tfoot></tfoot>
 ```
-## Table Header Cell - part of Table Header (<thead>)
+## Table Header Cell - part of Table Header (thead)
 ```html
 <th></th>
 ```
