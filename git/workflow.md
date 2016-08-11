@@ -1,3 +1,5 @@
+# Git Workflow
+## Credit for this cheatsheet goes to Ayman
 ### Make sure you are on the main development branch by using the following command:
 ```sh
 $ git checkout develop-branch
