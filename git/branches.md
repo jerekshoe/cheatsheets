@@ -1,10 +1,14 @@
 # Branches
 ## Create
-Create the branch
+### Create from master
 ```sh
 $ git checkout -b <branch>
 ```
-Push the branch to the remote (will be able to see on GitHub)
+### Create from another branch
+```sh
+$ git checkout -b <newbranch> <oldbranch>
+```
+#### Push the branch to the remote (will be able to see on GitHub)
 ```sh
 $ git push -u <remote> <branch>
 ```
